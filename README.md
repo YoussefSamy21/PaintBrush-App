@@ -54,7 +54,7 @@ The project consists of the following main components:
 - **Hala Eldaly**
 
 ## App Demo
-https://github.com/YoussefSamy21/PaintBrush-App/blob/main/demo.mp4
+https://github.com/user-attachments/assets/2cd7a98f-8194-4db4-97a0-86db60b9b419
 
 ---
 Thank you for checking out the Paint Brush Application! We hope you enjoy using it as much as we enjoyed creating it.😊❤️
